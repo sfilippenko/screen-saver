@@ -10,7 +10,7 @@ npm run dev
 ```
 ## Deployment
 
-https://screen-saver.herokuapp.com/
+https://screen-saver-canvas.herokuapp.com/
 
 ## Built With
 
